@@ -44,7 +44,8 @@ ul {
 .heading {
   list-style: none;
 }
-.input,.btn{
+.input,
+.btn{
   outline: none;
 }
 .btn {
