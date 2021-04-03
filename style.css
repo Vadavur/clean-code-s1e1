@@ -138,10 +138,6 @@
   margin: 0 10px;
 }
 
-.btn_action_delete:hover {
-  color: #cf2323;
-}
-
 .btn__img_type_delete {
   height: 2em;
   transform: rotatez(45deg);
